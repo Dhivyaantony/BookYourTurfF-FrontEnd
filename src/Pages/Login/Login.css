@@ -1,0 +1,33 @@
+.login-page {
+  background-image: url('C:\Users\91974\Desktop\book your court\book\assets\turf1.jpg');
+  background-size: cover;
+  background-position: center;
+  justify-content: space-around;
+  
+ }
+ .background-image {
+  
+  background-image: url('C:\Users\91974\Desktop\book your court\book\assets\football-image.png');
+ 
+  background-repeat: no-repeat;
+
+ }
+
+ .but
+ {
+  display: flex;
+  gap: 35px;
+  justify-content: center;
+  align-items:center;
+ }
+ .b1,.b2
+ {
+  width: 100px;
+ }
+ .p1>p{
+  color: hsl(218, 81%, 95%);
+  font-family: 'Poppins', sans-serif;
+  margin-top:5px;
+  
+ }
+ 

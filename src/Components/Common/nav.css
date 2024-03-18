@@ -1,0 +1,70 @@
+/* Navbar container */
+.navbar {
+  background-color: #ffffff; /* Navbar background color */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Navbar shadow */
+}
+
+/* Navbar brand/logo */
+.navbar-brand {
+  color: #333333; /* Brand/logo text color */
+  font-weight: bold; /* Brand/logo text weight */
+  font-size: 1.5rem; /* Brand/logo text size */
+}
+
+/* Navbar links */
+.nav-link {
+  color: #555555; /* Links text color */
+  font-weight: 500; /* Links text weight */
+}
+
+/* Navbar links on hover */
+.nav-link:hover {
+  color: #007bff; /* Links text color on hover */
+}
+
+/* Active link */
+.navbar-nav .active > .nav-link {
+  color: #007bff; /* Active link text color */
+}
+
+/* Navbar dropdown */
+.dropdown-menu {
+  background-color: #ffffff; /* Dropdown menu background color */
+  border: none; /* Remove dropdown menu border */
+}
+
+/* Dropdown item */
+.dropdown-item {
+  color: #555555; /* Dropdown item text color */
+}
+
+/* Dropdown item on hover */
+.dropdown-item:hover {
+  background-color: #f8f9fa; /* Dropdown item background color on hover */
+}
+
+/* Navbar toggler icon */
+.navbar-toggler-icon {
+  background-color: #333333; /* Toggler icon color */
+}
+
+/* Navbar toggle button */
+.navbar-toggler {
+  border: none; /* Remove toggle button border */
+}
+
+/* Navbar collapse */
+.navbar-collapse {
+  justify-content: flex-end; /* Align items to the right */
+}
+
+/* Navbar dropdown title */
+.navbar-dropdown-title {
+  color: #333333; /* Dropdown title color */
+  font-weight: 500; /* Dropdown title weight */
+}
+
+/* Navbar dropdown item on click */
+.dropdown-item.active, .dropdown-item:active {
+  background-color: #f8f9fa !important; /* Dropdown item background color on click */
+}
