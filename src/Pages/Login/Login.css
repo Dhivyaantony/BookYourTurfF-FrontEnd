@@ -1,5 +1,5 @@
 .login-page {
-  background-image: url('C:\Users\91974\Desktop\book your court\book\assets\turf1.jpg');
+  background-image: url('/assets/turf1.jpg');
   background-size: cover;
   background-position: center;
   justify-content: space-around;
@@ -7,7 +7,7 @@
  }
  .background-image {
   
-  background-image: url('C:\Users\91974\Desktop\book your court\book\assets\football-image.png');
+  background-image: url('/assets/football-image.png');
  
   background-repeat: no-repeat;
 
